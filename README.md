@@ -1,0 +1,1 @@
+The goal is to build a search engine. The task is to get an article from Wikipedia, extract meaningful content, clean up and filter the data to narrow the scope to relevant words, build a simple frequency model.
